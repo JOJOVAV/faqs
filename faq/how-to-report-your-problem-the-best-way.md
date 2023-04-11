@@ -37,6 +37,6 @@ bad title and description is also very bad, this guy clearly didn't read the gui
 
 ## Examples of GOOD reports
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>This is a good title and description</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>This is a good title and description</p></figcaption></figure>
 
 good title and description indicating the problem

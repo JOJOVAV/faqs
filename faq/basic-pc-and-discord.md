@@ -16,7 +16,7 @@ Threads are basicly a channel in a channel, it was born to make the chaotic in t
 
 In the right corner press on the # and press create, or if you have write perms you can do it on the message itself by pressing on the #.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Pins
 
@@ -30,7 +30,7 @@ To search for messages, you have lot of option/customization. Try searching for 
 
 The subject is always written in that small balk next to the channel name at the top.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## PC
 
