@@ -8,8 +8,8 @@ description: Hello here is a step by step guide on how to download everthing the
 
 First we are going to prepare your setup.
 
-1. Make a folder where you like except in the folder downloads or in Onedrive
-2. Go to AntiVirus(AV) and make exception or exclusion on the new made folder.
+1. Make a folder where you wish to download (make sure it's not inside of a OneDrive folder).
+2. Go to your antivirus settings and make exception or exclusion on the newly made folder.
 
 {% hint style="info" %}
 [#how-to-make-an-excpetion-exclusion](faq/antivirus.md#how-to-make-an-excpetion-exclusion "mention")

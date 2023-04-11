@@ -10,6 +10,6 @@
   * [R6downloader/R6manifest](faq/r6downloader-r6manifest.md)
   * [The Game R6](faq/the-game-r6.md)
   * [Liberator](faq/liberator.md)
-  * [Mods/Cheatengine](faq/mods-cheatengine.md)
-  * [Multiplayer/Radmin](faq/multiplayer-radmin.md)
+  * [Mods/Cheat Engine](faq/mods-cheat-engine.md)
+  * [Multiplayer/RadminVPN](faq/multiplayer-radminvpn.md)
   * [All DLL errors](faq/all-dll-errors.md)

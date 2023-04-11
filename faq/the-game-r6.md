@@ -27,7 +27,7 @@ Y1S0 - Y5S2: RainbowsixGame.exe else Rainbowsix.exe\
 Y5S3: Lumaplay.exe or global tools\
 Others: RainbowSix.bat (just open it, to close it press any key)
 
-## My old siege opens live built/uplay?
+## My old Siege version opens the current version or Ubisoft Connect
 
 Make sure to have exclusion in antivirus. Make sure to replace the crack in the root of the game.\
 Download and replace the crack in the plaza folder.\
@@ -39,7 +39,7 @@ Folow the next steps 7 and 8 in[#downloading](../how-to-download.md#downloading 
 Download plaza.exe in [#guides-en-faqs](https://discord.com/channels/1092820800203141130/1092835326692691978) or in [#first-thing-downloads](https://discord.com/channels/783407263141855284/790306702981070868) (modded rainbow)
 {% endhint %}
 
-## My old version is stuck preparing content, how do I fix it?
+## My old Siege version is stuck preparing content, how do I fix it?
 
 Close the game and restart it, if that doesn't work [verify your files](r6downloader-r6manifest.md#how-do-i-verify-my-game-files-and-what-is-the-meaning-of-verify)
 
@@ -57,9 +57,9 @@ Its normal ignore them. Just press "Ok" button
 
 ## How to play with friends?
 
-Get RadminVPN
+Use RadminVPN
 
 {% hint style="info" %}
-[multiplayer-radmin.md](multiplayer-radmin.md "mention")
+[multiplayer-radminvpn.md](multiplayer-radminvpn.md "mention")
 {% endhint %}
 

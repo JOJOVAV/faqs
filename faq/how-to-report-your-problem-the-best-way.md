@@ -31,12 +31,12 @@ Use the windowskey + shift + s to make a screenshot
 
 ## Examples of BAD reports
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>This has a bad title and bad description </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>This has a bad title and bad description </p></figcaption></figure>
 
 bad title and description is also very bad, this guy clearly didn't read the guides
 
 ## Examples of GOOD reports
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>This is a good title and description</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>This is a good title and description</p></figcaption></figure>
 
 good title and description indicating the problem

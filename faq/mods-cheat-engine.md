@@ -1,14 +1,20 @@
 ---
-description: Here we use cheattables to mod the game
+description: How to use cheat tables to mod the game
 ---
 
-# Mods/Cheatengine
+# Mods/Cheat Engine
+
+## What is Cheat Engine? What is a cheat table?
+
+Cheat Engine is a very powerful software that has the ability to mod games.
+
+A "cheat table" is a file that Cheat Engine is able to read. It ends in `.ct` and it contains various modding stuff. Without going too deep, Cheat Engine is the canvas, while Cheat Engine is a painting.&#x20;
 
 ## Where do I download Cheat Engine?
 
 {% embed url="https://cheatengine.org" %}
 
-## How to download cheatengine
+## How to download Cheat Engine
 
 {% embed url="https://www.youtube.com/watch?v=k7Be7pwC5xI" %}
 

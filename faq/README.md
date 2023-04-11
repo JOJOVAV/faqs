@@ -32,8 +32,8 @@ This also applies for something added in the faqs
 
 ## [liberator.md](liberator.md "mention")
 
-## [mods-cheatengine.md](mods-cheatengine.md "mention")
+## [mods-cheat-engine.md](mods-cheat-engine.md "mention")
 
-## [multiplayer-radmin.md](multiplayer-radmin.md "mention")
+## [multiplayer-radminvpn.md](multiplayer-radminvpn.md "mention")
 
 ## [all-dll-errors.md](all-dll-errors.md "mention")

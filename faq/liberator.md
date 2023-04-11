@@ -1,14 +1,14 @@
 ---
 description: >-
-  The liberator is a tool to make your life ez, changes map, events, and basic
-  mods.
+  Liberator is a modding tool for most versions from launch up to Y4S4. Its most
+  known features is the ability to play events in custom games.
 ---
 
 # Liberator
 
 ## How to use?
 
-Go to [custom game](multiplayer-radmin.md#2.-custom-games), select in liberator your thing you like (double click), check at the bottom the change.\
+Go to [custom game](multiplayer-radminvpn.md#2.-custom-games), select in liberator your thing you like (double click), check at the bottom the change.\
 Start the game and enjoy.
 
 ## Is this a virus?

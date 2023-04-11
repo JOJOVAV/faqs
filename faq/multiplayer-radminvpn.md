@@ -2,27 +2,31 @@
 description: In here I'm going to explain how to play "online" with each other
 ---
 
-# Multiplayer/Radmin
+# Multiplayer/RadminVPN
 
 ## Radmin
 
-### 1. download RadminVPN
+### 1. Download RadminVPN
 
 [Go to this site](https://www.radmin-vpn.com/)
 
-### 2. Run Radmin installer and follow it's steps
+{% hint style="info" %}
+Make sure to download RadminVPN and not Radmin.
+{% endhint %}
 
-### 3. Change your username in the Radmin (click on the name)
+### 2. Run the RadminVPN installer and follow the installation steps
+
+### 3. Change your username in Radmin VPN (click on the name)
 
 ### 4. Join network or make a new one
 
-At the start you see a little box (first time installing radmin) you can use that for the first time.\
+At the start you see a little box (first time installing RadminVPN) you can use that for the first time.\
 Now Click on the Network and press Create Network (to create your own network where friends join yours) OR Join Network (to join someone else network).&#x20;
 
 {% hint style="info" %}
 Check the pins in channel looking for games or check in the vc-chat where people also&#x20;
 
-share their radmin network
+share their RadminVPN networks
 {% endhint %}
 
 ## Multiplayer

@@ -4,25 +4,25 @@ description: Section for the tool R6downloader
 
 # R6downloader/R6manifest
 
-## Can I trust this?
 
-files are from official steam servers that store files (for i. of every siege version), thats why this download tool needs login details, coz it needs to access that database of files, and bc siege is paid, downloader and steam servers needs account to validate ownership and download game files !! WE DON'T FORCE ANYONE TO DOWNLOAD THIS !!
 
 {% hint style="warning" %}
-## WE DON'T FORCE ANYONE TO DOWNLOAD THIS
+No R6: Operation Throwback staff will ever ask for your Steam account information.
 {% endhint %}
 
-If someone is forcing you to download something that means it's a high chance of malware
+## Why does the Downloader need my Steam account?
+
+Our tools download old Siege versions directly from Steam servers. This operation requires a Steam account which owns Siege.
 
 ## Is it safe to enter my password?
 
-Yes, you can view the source code for [Depot Downloader](https://github.com/SteamRE/DepotDownloader)
+Yes, our tools are based on the open source project [Depot Downloader](https://github.com/SteamRE/DepotDownloader).
 
 ## How do I verify my game files and what is the meaning of verify
 
 Run the downloader again, it will skip files you already have downloaded (make sure to add an exclusion) aka run the downloader without deleting it.\
 \
-The meaning of verify is that it checks the files for corruption. If one of the file is corrupt it will repair them that is why you never delete the game if it doesn't work.
+Due to the nature of data transmission over the Internet, it can sometime fail and make you download corrupt files. Verifying the files verifies every file you downloaded in search of download errors. In case it finds any, it will only re-download the corrupt files, making it a much faster way to solve problems than re-downloading everything.
 
 ## Why am i getting "Encountered unexpected error downloading chunk xxxxxxxxxxxx: The operation was canceled." errors?
 
