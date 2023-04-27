@@ -19,7 +19,7 @@ First we are going to prepare your setup.
 
 now that you are done wiht the little prep, you won't need to mess with turning off your antivirus ever again. Also don't forget to download the dotnet 6 in Operation Throwback in channel r6downloader.
 
-## Downloading
+## Downloading with Steam
 
 Now that you installed dotnet it's time you download the r6downloader
 
@@ -43,5 +43,19 @@ Make sure to download the correct downloader because steam updates it's api and 
 {% hint style="info" %}
 [https://www.youtube.com/watch?v=ko1u0tvSUGQ](https://www.youtube.com/watch?v=ko1u0tvSUGQ)
 {% endhint %}
+
+## Downloading with Ubi
+
+1.go to the [Modded Rainbow server](https://r6downloads.com/discord.html)
+2. install mega desktop application
+3. choose your season you like (folder)
+4. download all the contents of said season
+5. extract the game with 7zip or winrar
+
+{% hint style="info" %}
+Make sure to have enough storage. Zip files + Game files = total storage!!
+{% endhint %}
+
+6. Check in codex.ini the game name is filled in other then "changegamename" and also change username from "JVAV" to your own username.
 
 ### That is the little guide go to the faqs on something that you think is missing or getting errors all over.
