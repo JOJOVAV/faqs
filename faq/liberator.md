@@ -2,6 +2,7 @@
 description: >-
   Liberator is a modding tool for most versions from launch up to Y4S4. Its most
   known features is the ability to play events in custom games.
+  It is a playlisttool for changing the maps and some basic little modding
 ---
 
 # Liberator
