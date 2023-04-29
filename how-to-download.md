@@ -23,7 +23,7 @@ now that you are done wiht the little prep, you won't need to mess with turning 
 
 Now that you installed dotnet it's time you download the r6downloader
 
-1. download the r6downloader in [r6download channel](https://discord.com/channels/1092820800203141130/1092833532981809293).&#x20;
+1. download the r6downloader in [r6download channel](https://discord.com/channels/1092820800203141130/1092833532981809293).
 2. choose your folder (the one with exclusion just saying)
 3. click on r6downloader todo it's thing
 4. insert legacy name (aka your first name aka your login name, check picture)
@@ -35,8 +35,7 @@ Make sure to download the correct downloader because steam updates it's api and 
 5. choose your game you like to download and while you at it read the faqs too because yes
 6. press enter to continue if still waiting check taskmanager if it's using resources if not\
    restart it and try again.
-7. now go to your game, normaly you should see codex.ini if not copy the correct crack from the resource/plaza/ folder. Check the faqs for the correct version of the crack.\
-
+7. now go to your game, normaly you should see codex.ini if not copy the correct crack from the resource/plaza/ folder. Check the faqs for the correct version of the crack.\\
 8. Open the codex.ini file and change your gamename to an unique name. (will crash if you have multiple versions).\
    while you at it change username to random thing doesn't need to be unique.
 
@@ -46,10 +45,10 @@ Make sure to download the correct downloader because steam updates it's api and 
 
 ## Downloading with Ubi
 
-1.go to the [Modded Rainbow server](https://r6downloads.com/discord.html)
+1. go to the [Modded Rainbow server](https://r6downloads.com/discord.html)
 2. install mega desktop application
-3. choose your season you like (folder)
-4. download all the contents of said season
+3. choose your season you like (folder)&#x20;
+4. download all the contents of said season&#x20;
 5. extract the game with 7zip or winrar
 
 {% hint style="info" %}
